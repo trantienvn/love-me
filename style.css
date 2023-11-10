@@ -158,16 +158,6 @@ a
     color: inherit; 
 } 
 
-.button__message::after
-{
-    content: "Không";
-}
-
-.button__message:hover:after
-{
-    content: "Có";
-}
-
 .col_third
 {
     color: red;
